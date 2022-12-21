@@ -697,6 +697,10 @@ button :hover{
 
 /* Footer */
 
+footer span{
+    margin-left: 0;
+}
+
 footer{
     display: flex;
     flex-direction: column;
