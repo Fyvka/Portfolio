@@ -373,7 +373,7 @@ span{
     position: relative;
     display: flex;
     flex-direction: row;
-    z-index: 30;
+    z-index: 100;
     /* margin-left: 42px; */
 }
 
